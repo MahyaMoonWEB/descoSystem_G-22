@@ -1,4 +1,4 @@
-package com.example.descosystem_g22.Moon;
+package com.example.descosystem_g22;
 
 import com.example.descosystem_g22.User;
 import javafx.event.ActionEvent;
